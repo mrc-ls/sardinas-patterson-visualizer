@@ -2,7 +2,7 @@ plugins {
     id("org.jetbrains.kotlin.multiplatform") version "2.1.21"
 }
 
-group = "io.github.luisimarco"
+group = "io.github.mrc-ls"
 version = "1.0.0"
 
 repositories {
